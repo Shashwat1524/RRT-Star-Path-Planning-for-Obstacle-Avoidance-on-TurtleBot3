@@ -33,9 +33,9 @@ This repository implements RRT* path planning for obstacle avoidance on TurtleBo
 ### Step 1: Launch the TurtleBot3 simulation
 Run the following command to launch Gazebo and RViz for the TurtleBot3 simulation:
 
-bash
+```bash
 ros2 launch turtlebot3_gazebo navigator.launch.py
-
+```
 
 This will open:
 Gazebo: Simulated environment with TurtleBot3
