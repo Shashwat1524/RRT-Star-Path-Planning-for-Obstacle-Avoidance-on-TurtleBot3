@@ -12,9 +12,9 @@ This repository implements RRT* path planning for obstacle avoidance on TurtleBo
 
 1. Clone this repository into your ROS 2 workspace:
    
-bash
+'''bash
    git clone https://github.com/Shashwat1524/A-Star-Path-Planning-for-Obstacle-Avoidance-on-TurtleBot3.git
-
+'''
 
 2. Build your workspace
 
