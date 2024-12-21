@@ -1,5 +1,5 @@
 # RRT-Star-Path-Planning-for-Obstacle-Avoidance-on-TurtleBot3
-This repository implements rrT* path planning for obstacle avoidance on TurtleBot3 using ROS 2. The project enables the TurtleBot3 to autonomously navigate to a specified goal while avoiding obstacles in a simulated environment.
+This repository implements RRT* path planning for obstacle avoidance on TurtleBot3 using ROS 2. The project enables the TurtleBot3 to autonomously navigate to a specified goal while avoiding obstacles in a simulated environment.
 
 ## Requirements
 
