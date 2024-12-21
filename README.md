@@ -22,7 +22,7 @@ This repository implements RRT* path planning for obstacle avoidance on TurtleBo
 
    
 ```bash
-   ros2 launch turtlebot3_gazebo navigator.launch.py
+   colcon build
 ```
    
 3. Source  your workspace
