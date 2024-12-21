@@ -12,22 +12,22 @@ This repository implements RRT* path planning for obstacle avoidance on TurtleBo
 
 1. Clone this repository into your ROS 2 workspace:
    
-'''bash
+```bash
    git clone https://github.com/Shashwat1524/A-Star-Path-Planning-for-Obstacle-Avoidance-on-TurtleBot3.git
-'''
+```
 
 2. Build your workspace
 
    
-bash
+```bash
    ros2 launch turtlebot3_gazebo navigator.launch.py
-
+```
    
 3. Source  your workspace
    
-bash
+```bash
    source install/setup.bash
-
+```
 
 ## Usage
 ### Step 1: Launch the TurtleBot3 simulation
@@ -44,9 +44,9 @@ RViz: Visualization tool for monitoring the robot's state and paths
 ### Step 2: Run the RRT* path planner and navigator node
 Execute the following command to start the ARRT planner and navigator node:
 
-bash
+```bash
 ros2 run RRT_Star_Planning rrt_node
-
+```
 
 ### Step 3: Set the goal pose in RViz
 In RViz, use the 2D Pose Estimate tool to set the robot's initial position (if required).
