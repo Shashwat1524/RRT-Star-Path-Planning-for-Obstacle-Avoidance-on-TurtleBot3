@@ -42,7 +42,7 @@ Gazebo: Simulated environment with TurtleBot3
 RViz: Visualization tool for monitoring the robot's state and paths
 
 ### Step 2: Run the RRT* path planner and navigator node
-Execute the following command to start the ARRT planner and navigator node:
+Execute the following command to start the RRT planner and navigator node:
 
 ```bash
 ros2 run RRT_Star_Planning rrt_node
