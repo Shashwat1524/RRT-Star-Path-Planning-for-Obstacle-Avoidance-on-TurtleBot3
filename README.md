@@ -7,7 +7,8 @@ This repository implements RRT* path planning for obstacle avoidance on TurtleBo
 - [TurtleBot3 packages]([https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/](https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/)) installed (turtlebot3, turtlebot3_simulations)
 - [Gazebo simulation environment](https://gazebosim.org/)
 - [RViz](https://docs.ros.org/en/rolling/Tutorials/Using-RViz-with-SLAM.html) for visualization
-- [Turtlebot3_gazebo package]([https://wiki.ros.org/turtlebot3_gazebo])
+- [Turtlebot3_gazebo package](https://wiki.ros.org/turtlebot3_gazebo)
+  
 **Note** : I am using Turtlebot3 Waffle
 ## Installation
 
