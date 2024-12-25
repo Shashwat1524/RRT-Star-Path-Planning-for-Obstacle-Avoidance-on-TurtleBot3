@@ -53,4 +53,8 @@ ros2 run RRT_Star_Planning rrt_node
 ### Step 3: Set the goal pose in RViz
 In RViz, use the 2D Pose Estimate tool to set the robot's initial position (if required).
 Use the 2D Goal Pose tool to set the target destination for the robot.
-The robot will compute the optimal path using the RRT* algorithm and the TB3 will navigate to the goal while avoiding obstac
+The robot will compute the optimal path using the RRT* algorithm and the TB3 will navigate to the goal while avoiding obstacle. 
+
+## Demonstration
+### Simulation
+![Dashboard GIF](rrt.gif)
