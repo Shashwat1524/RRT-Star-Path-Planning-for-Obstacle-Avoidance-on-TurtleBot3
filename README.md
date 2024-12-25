@@ -57,4 +57,4 @@ The robot will compute the optimal path using the RRT* algorithm and the TB3 wil
 
 ## Demonstration
 ### Simulation
-![Dashboard GIF](rrt.gif)
+![RRT_Simulation](rrt.gif)
